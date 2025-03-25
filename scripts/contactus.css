@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0% 15% 0% 15%;
+    font-size: 14px;
+}
+.container{
+    border-radius: 5px;
+    background-color: rgb(97, 207, 60);
+}
+form{
+    padding: 10px 20px 15px 30px;
+    background-color: rgb(223, 214, 214);
+}
+input[type="text"],
+input[type="email"],
+input[type="text"],
+textarea{
+    padding: 10px;
+    width: 100%;
+}
+.send{
+    padding: 7px;
+    width: 7%;
+    height: 5%;
+    color: rgb(255, 255, 255);
+    background-color: rgba(13, 138, 13, 0.916);
+    border: none;
+    border-radius: 3px;
+}
+.f{
+    padding: 20px 30px 0px 40px;
+}
+.g
+{
+    padding: 0px 0px 5px 30px;
+
+}
