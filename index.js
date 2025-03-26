@@ -7,3 +7,4 @@ class Test {
     console.log('constructor');
   }
 }
+
